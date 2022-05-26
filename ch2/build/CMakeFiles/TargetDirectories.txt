@@ -1,0 +1,4 @@
+/home/zouyi/Desktop/slam14/code/ch2/build/CMakeFiles/hello_shared.dir
+/home/zouyi/Desktop/slam14/code/ch2/build/CMakeFiles/use_lib.dir
+/home/zouyi/Desktop/slam14/code/ch2/build/CMakeFiles/edit_cache.dir
+/home/zouyi/Desktop/slam14/code/ch2/build/CMakeFiles/rebuild_cache.dir

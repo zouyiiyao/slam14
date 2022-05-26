@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/use_lib.dir/use_lib.cpp.o -o use_lib  -Wl,-rpath,/home/zouyi/Desktop/slam14/code/ch2/build libhello_shared.so 
