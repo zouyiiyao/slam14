@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++11 -g -rdynamic CMakeFiles/plot_trajectory.dir/plot_trajectory.o -o plot_trajectory   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib /usr/local/lib/libpangolin.so -lGLU -lGL -lX11 -lXext -lGLEW -lX11 -lpng -lz 
